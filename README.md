@@ -42,7 +42,9 @@ For this workshop you’ll get access to a temporary AWS Account already pre-con
 ![setup4](./imgs/setup4.png)
 
 
-### 5. Open the Lab you want to do and have fun! 
+### 5. Open the Lab and select the right kernel you want to do and have fun!  
+
+TODO: all kernel image
 
 
 #### Sources:
