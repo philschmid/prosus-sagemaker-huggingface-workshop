@@ -27,19 +27,19 @@ For this workshop you’ll get access to a temporary AWS Account already pre-con
 
 ### 2. Click on Notebook and then on Notebook instances 
 
-![setup2](./imgs/setup1.png)
+![setup2](./imgs/setup2.png)
 
 ### 3. Create a new Notebook instance
 
-![setup3](./imgs/setup1.png)
+![setup3](./imgs/setup3.png)
 
 ### 4. Configure Notebook instances
 
 * Make sure to increase the Volume Size of the Notebook if you want to work with big models and datasets
 * Add your IAM_Role with permissions to run your SageMaker Training And Inference Jobs
-* Add the Workshop Github Repository to the Notebook to preload the notebooks: https://github.com/philschmid/prosus-sagemaker-huggingface-workshop.git
+* Add the Workshop Github Repository to the Notebook to preload the notebooks: `https://github.com/philschmid/prosus-sagemaker-huggingface-workshop.git`
 
-![setup4](./imgs/setup1.png)
+![setup4](./imgs/setup4.png)
 
 
 ### 5. Open the Lab you want to do and have fun! 
