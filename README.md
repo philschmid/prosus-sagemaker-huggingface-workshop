@@ -51,4 +51,8 @@ TODO: all kernel image
 
 * https://huggingface.co/docs/sagemaker/main
 * https://github.com/huggingface/notebooks/tree/master/sagemaker
+* Links to datasets – these are sampled from PolEval 2019:
+    * Train split: https://pai-marketplace21-tutorials.s3.amazonaws.com/practical-nlp/data/train.csv
+    * Test split: https://pai-marketplace21-tutorials.s3.amazonaws.com/practical-nlp/data/test.csv
+* Fine-tuned model: https://pai-marketplace21-tutorials.s3.amazonaws.com/practical-nlp/models/polish_cyberbullying_bert_base.tgz
 
